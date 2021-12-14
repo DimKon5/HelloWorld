@@ -5,7 +5,7 @@ This is my first repository!
 I am a statistical consultant. I have studied Mathematics in an undegraduate level and Statistics in a postgraduate level.
 
 ## My Career Passions
-I have a grat interest in Bayestian statistics and its applications in Pharma industry. I am big fun of statsitical programming using R or SAS.
+I have a great interest in Bayesian statistics and its applications in Pharma industry. I am big fun of statistical programing using R or SAS.
 
 ## My Hobbies
-Basketaball, Sailing, Music, Hiking
+Basketball, Sailing, Music, Hiking
