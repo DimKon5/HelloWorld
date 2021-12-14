@@ -1,6 +1,8 @@
 # HelloWorld
 This is my first repository!
 
+![headshot](thumbnail.jpg)
+
 # A little insight into Dimitris Kontos
 I am a statistical consultant. I have studied Mathematics in an undegraduate level and Statistics in a postgraduate level.
 
